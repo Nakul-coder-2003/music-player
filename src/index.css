@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+#range::-webkit-range-thumb{
+    background-color: white;
+    border: none;
+}
+::-webkit-scrollbar{
+    width: 12px;
+}
